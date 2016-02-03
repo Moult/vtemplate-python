@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Name: Dion Moult
+    Role: Main developer
+
+# CONTRIBUTE
+
+    https://github.com/Moult/vtemplate
